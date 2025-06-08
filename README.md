@@ -15,7 +15,12 @@ Many people told us they often can't find a bin nearby and are forced to carry i
 While this is currently just a web app, it is designed with mobile users in mind and can easily be extended into a mobile app in the future.
 
 ---
+## Demo
+![image](https://github.com/user-attachments/assets/cea5949f-be7a-4a86-857e-344fc643abee)
 
+
+
+---
 ## 🚀 How to Run Locally
 
 To run the app locally:
